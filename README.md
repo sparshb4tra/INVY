@@ -25,10 +25,10 @@ Regular users have limited access to specific functionalities. They can:
 -Search for ingredients.
 -Manage ingredient stocks.
 
-User Management
+3. User Management
 Admins can create and manage user accounts with distinct roles such as Administrator or Normal User. When adding a user, details like full name, username, email, address, age, and password must be provided. Each user role comes with specific permissions. Admins can also update their passwords by providing the current password and setting a new one.
 
-Stock Manager
+4. Stock Manager
 This module allows for easy inventory handling. Admins can search for ingredients, view their details, and update stock levels by entering the required quantities. The system automatically calculates and displays the remaining stock.
 
 
