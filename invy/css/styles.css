@@ -1,0 +1,151 @@
+body {
+    background: linear-gradient(135deg, rgba(255,255,255,0.7),
+     rgba(200,200,200,0.7));
+    background-attachment: fixed;
+    
+}
+
+#title_container {
+    background: linear-gradient(135deg, rgba(0,32,64,0.9), 
+    rgba(0,64,128,0.8));
+    padding: 30px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+
+#title_container .container-fluid .brand {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+  'Helvetica Neue', sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+  color: #FFFFF0;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+#title_container .container-fluid .system {
+  font-family:"helvetica";
+  font-size: 18px;
+  font-weight: lighter;
+  color: #E6E6FA;
+}
+
+#main_container {
+  margin-top: 150px;
+
+}
+
+.panel {
+  border: 1px solid #c7c7c7;
+}
+
+.panel .panel-heading {
+    background: linear-gradient(135deg, rgba(0,32,64,0.9),
+     rgba(0,64,128,0.8));
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  font-family: "helvetica Neue",;
+  font-size: 18px;
+  font-weight: lighter;
+  color: #fff;
+  border: none !important;
+}
+
+label {
+  font-family: "helvetica Neue",;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+h3 {
+  font-family: "helvetica Neue",;
+  font-size: 30px;
+  font-weight: lighter;
+  color: #333;
+}
+
+#account_register {
+  margin-top: 25px;
+}
+
+.btn-link {
+  text-decoration: none;
+  color: #333;
+  margin-left: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.btn-link:hover {
+  text-decoration: none;
+  color: #333;
+}
+
+.mean {
+  font-family: "helvetica", arial;
+  font-size: 12px;
+  font-weight: lighter;
+  color: #aaa;
+  margin-top: -10px;
+}
+
+.user_name {
+  font-family: "helvetica", arial;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #333;
+}
+
+.user_position {
+  font-family: "helvetica", arial;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.user_age {
+  font-family: "helvetica";
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+
+.user_address {
+  font-family: "helvetica";
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+
+#panel_table .panel-body {
+  padding: 0px;
+}
+
+#readonly {
+  border: none;
+  background: none;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  cursor: default;
+}
+
+.btn,
+select {
+  cursor: pointer;
+} 
+
+h3 {
+  color: #333;
+  margin-bottom: 20px;
+}
