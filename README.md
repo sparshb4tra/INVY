@@ -2,12 +2,9 @@
 Real Time Inventory Management System
 
 
-## Overview
-INVY is a real-time inventory management system designed to efficiently manage ingredient stocks. Built using PHP and MySQL, this project is perfect for IT students in their first or second year, offering a practical and relatable application for college projects. It replicates real-world scenarios, making it both educational and functional. To download the source code, scroll to the bottom of this page for the download link.
-
-
 ## About the Project
-About INVY
+About INVY,
+
 INVY focuses on seamlessly managing and tracking ingredient inventory. It provides a comprehensive list of ingredients categorized systematically, enabling users to handle stock efficiently. The application operates with two primary roles: Admin and User, each with specific features and permissions.
 
 
